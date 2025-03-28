@@ -1,0 +1,14 @@
+[
+  {
+    "privateKey": "YOUR_ETHEREUM_PRIVATE_KEY_HERE",
+    "proxy": "http://username:password@host:port",
+    "custom_name": "我的节点-01",
+    "referLink": "MHg0RmRkNmYwMDA5NjAzOTQ3M3mEXMDk2MEwMGZCc0N0QmNkN0NTi0"
+  },
+  {
+    "privateKey": "YOUR_SECOND_ETHEREUM_PRIVATE_KEY_HERE",
+    "proxy": "127.0.0.1:7890",
+    "custom_name": "我的节点-02",
+    "referLink": "MHg0RmRkNmYwMDA5NjAzOTQ3M3mEXMDk2MEwMGZCc0N0QmNkN0NTi0"
+  }
+] 
